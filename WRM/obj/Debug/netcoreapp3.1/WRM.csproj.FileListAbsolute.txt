@@ -1,0 +1,157 @@
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\WRM.exe
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\WRM.deps.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\WRM.runtimeconfig.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\WRM.runtimeconfig.dev.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\WRM.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\WRM.pdb
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.AssemblyReference.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.AssemblyInfoInputs.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.AssemblyInfo.cs
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.CoreCompileInputs.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\staticwebassets\WRM.StaticWebAssets.Manifest.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\staticwebassets\WRM.StaticWebAssets.xml
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\scopedcss\bundle\WRM.styles.css
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.RazorTargetAssemblyInfo.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.CopyComplete
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.pdb
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\obj\Debug\netcoreapp3.1\WRM.genruntimeconfig.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.exe
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.deps.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.runtimeconfig.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.runtimeconfig.dev.json
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.pdb
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.AssemblyReference.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.AssemblyInfoInputs.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.AssemblyInfo.cs
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.CoreCompileInputs.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\staticwebassets\WRM.StaticWebAssets.Manifest.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\staticwebassets\WRM.StaticWebAssets.xml
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\scopedcss\bundle\WRM.styles.css
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.RazorTargetAssemblyInfo.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.CopyComplete
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.pdb
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.genruntimeconfig.cache
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2000081413\OneDrive - Hexaware Technologies\Case study\WRM case study\WRM\bin\Debug\netcoreapp3.1\Log4net.config
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Log4net.config
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.exe
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.deps.json
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.runtimeconfig.json
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.runtimeconfig.dev.json
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\WRM.pdb
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.AssemblyReference.cache
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.AssemblyInfoInputs.cache
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.AssemblyInfo.cs
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.CoreCompileInputs.cache
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\staticwebassets\WRM.StaticWebAssets.Manifest.cache
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\staticwebassets\WRM.StaticWebAssets.xml
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\scopedcss\bundle\WRM.styles.css
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.RazorTargetAssemblyInfo.cache
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.csproj.CopyComplete
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.dll
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.pdb
+C:\Users\2000078276\Desktop\WRM case study\WRM\obj\Debug\netcoreapp3.1\WRM.genruntimeconfig.cache
